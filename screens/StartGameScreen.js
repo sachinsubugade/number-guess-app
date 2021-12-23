@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     width: "100%",
     justifyContent: "space-between",
-    paddingHorizontal: 15,
+    paddingHorizontal: 10,
   },
   button: {
     width: 100,
